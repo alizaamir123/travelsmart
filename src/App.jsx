@@ -1,5 +1,6 @@
+// src/App.jsx
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./Home";
+import Home from "./Home ";
 import Navbar from "./Navbar";
 import HeroSlider from "./HeroSlider";
 import Footer from "./Footer";
@@ -8,11 +9,10 @@ import About from "./About";
 import Destination from "./Destination";
 import TripCatalog from "./TripCatalog";
 import Contact from "./Contact";
-import RomanticDestination from "./RomanticDestination";
+import RomanticDestination from'./RomanticDestination';
 import Detail from "./Detail";
 import AuthPage from "./AuthPage";
-import Feedback from "./Feedback";
-
+import Feedback from"./Feedback"
 
 function App() {
   
