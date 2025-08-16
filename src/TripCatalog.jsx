@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import data from "./trips.json";
+import data from "./Trips.json";
 import { motion } from "framer-motion";
 import "./TripCatalog.css";
 import Navbar from "./Navbar";
